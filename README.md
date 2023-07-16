@@ -3,7 +3,7 @@
 This is a backend API for a polling system application. It is built using Node.js and MongoDB with the help of the Express framework.
 
 ## Installation
-- hosted link - https://polling-api-system-03eg.onrender.com
+-
 - Install dependencies using npm install
 - Start the server using npm start
 
